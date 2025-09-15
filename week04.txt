@@ -1,0 +1,2 @@
+git commit --amend -m 
+git reset --hard HEAD
