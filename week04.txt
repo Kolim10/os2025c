@@ -1,2 +1,3 @@
 git commit --amend -m 
 git reset --hard HEAD
+8th commit content
