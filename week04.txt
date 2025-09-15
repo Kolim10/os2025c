@@ -2,3 +2,4 @@ git commit --amend -m
 git reset --hard HEAD
 8th commit content
 9th commit content
+10th commit content
